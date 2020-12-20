@@ -1,7 +1,11 @@
 # Redux DevTools Extension
-# Fork with optimized interface
+## Fork with optimized interface
 
 ![UI](https://raw.githubusercontent.com/gdbd/redux-devtools-extension/master/images/screen1.png)
+
+# Download
+https://raw.githubusercontent.com/gdbd/redux-devtools-extension/master/crx/extension.crx
+
 
 # Changelist
 * removed topbar
