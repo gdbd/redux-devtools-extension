@@ -1,13 +1,13 @@
 {
   "version": "2.17.1",
-  "name": "Redux DevTools",
-  "short_name": "Redux DevTools",
-  "description": "Redux DevTools for debugging application's state changes.",
-  "homepage_url": "https://github.com/zalmoxisus/redux-devtools-extension",
+  "name": "Redux DevTools(fork)",
+  "short_name": "Redux DevTools(fork)",
+  "description": "Redux DevTools for debugging application's state changes. Fork with optimized interface",
+  "homepage_url": "https://github.com/gdbd/redux-devtools-extension",
   "manifest_version": 2,
   "page_action": {
     "default_icon": "img/logo/gray.png",
-    "default_title": "Redux DevTools",
+    "default_title": "Redux DevTools(fork)",
     "default_popup": "window.html#popup"
   },
   "commands": {
@@ -62,6 +62,6 @@
   },
   "permissions": [ "notifications", "contextMenus", "tabs", "storage", "<all_urls>" ],
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src 'self' data:;",
-  "update_url": "https://clients2.google.com/service/update2/crx",
+  "update_url": "https://0.0.0.0",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsdJEPwY92xUACA9CcDBDBmbdbp8Ap3cKQ0DJTUuVQvqb4FQAv8RtKY3iUjGvdwuAcSJQIZwHXcP2aNDH3TiFik/NhRK2GRW8X3OZyTdkuDueABGP2KEX8q1WQDgjX/rPIinGYztUrvoICw/UerMPwNW62jwGoVU3YhAGf+15CgX2Y6a4tppnf/+1mPedKPidh0RsM+aJY98rX+r1SPAHPcGzMjocLkqcT75DZBXer8VQN14tOOzRCd6T6oy7qm7eWru8lJwcY66qMQvhk0osqEod2G3nA7aTWpmqPFS66VEiecP9PgZlp8gQdgZ3dFhA62exydlD55JuRhiMIR63yQIDAQAB"
 }
